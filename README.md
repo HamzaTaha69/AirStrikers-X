@@ -16,12 +16,11 @@ Your goal is to try tto live the longest.
 ## Controls
 
 The controls are:
-{
 
 Space key to jump (or boost upwards).
 
-}
-
 ## How to open
 
-You just need to click the exe file.
+You need to extract the zip file COMPLETELY.
+
+Then you click the exe file.
